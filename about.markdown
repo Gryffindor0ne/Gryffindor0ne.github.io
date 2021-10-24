@@ -6,6 +6,8 @@ permalink: /about/
 
 # Contact
 
-- E-mail: (ukjae29@gmail.com)
+E-mail : ukjae29@gmail.com
 
-- Github: (https://github.com/Gryffindor0ne)
+[MyGitHub][jekyll-mygithub]
+
+[jekyll-mygithub]: https://github.com/gryffindor0ne
