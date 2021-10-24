@@ -1,6 +1,6 @@
 ---
 layout: list
-title: life
+title: Life
 type: category
 description: >
   삶에 대한 것들
