@@ -4,6 +4,7 @@ title: "Start & Up!"
 image: /assets/img/blog/hendra-pontomudis-VEKEFXk0AEw-unsplash.jpg
 date: 2021-10-24 14:51:59 +0900
 categories: liFe
+permalink: /life/
 ---
 
 # Start & Up!
