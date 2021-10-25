@@ -27,21 +27,22 @@ description: >
   Gryffindon0ne's Blog
 
 # A shorter description for the sidebar.
-tagline: Frontend Developer
+tagline: FrontEnd Developer!
 
 # A list of keywords for your blog
-keywords: [developer, FE]
+keywords: [developer, FE, 프론트엔드, 개발자]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-# logo: /assets/img/logo.png
+logo: /assets/img/1.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name: Ryan Lee
   email: ukjae29@gmail.com
+  picture: /assets/img/1.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
