@@ -10,4 +10,6 @@ If it helps you even a little, I'm happy with it. 🤣
 
 **Thank you for visiting.** 🙏🏻
 
+<br>
 
+[**Gryffindor0ne's Blog**](https://gryffindor0ne.github.io/) 🪄
