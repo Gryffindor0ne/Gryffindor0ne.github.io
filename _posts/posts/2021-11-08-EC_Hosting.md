@@ -251,6 +251,10 @@ let, const로 선언된 변수는 변수의 선언만 **호이스팅(Hoisting)**
 
 <br>
 
+[코드 참고하려면](https://github.com/Gryffindor0ne/studyNote/blob/main/JavaScript/ExecutionContext2.md)
+
+<br>
+
 ---
 
 ## 참고자료
