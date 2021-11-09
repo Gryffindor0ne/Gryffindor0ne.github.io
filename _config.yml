@@ -327,6 +327,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jekyll-avatar
+  - jekyll-youtube
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
