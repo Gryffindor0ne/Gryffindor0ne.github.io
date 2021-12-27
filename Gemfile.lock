@@ -288,6 +288,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-20
+  x86_64-darwin-21
 
 DEPENDENCIES
   duktape
@@ -312,4 +313,4 @@ DEPENDENCIES
   kramdown-math-katex
 
 BUNDLED WITH
-   2.2.29
+   2.3.3
