@@ -32,6 +32,8 @@ gem "kramdown-math-katex"
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
 
+gem "webrick"
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"
