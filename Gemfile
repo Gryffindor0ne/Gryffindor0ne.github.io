@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 # gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -11,9 +11,9 @@ gem "github-pages", group: :jekyll_plugins
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 4.2.1"
 
-gem "jekyll-theme-hydejack", "~> 9.1.4"
+gem "jekyll-theme-hydejack", "~> 9.1.5"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -45,7 +45,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
-  gem "jekyll-include-cache"
+
   gem "jekyll-avatar"
   gem "jekyll-youtube"
 
