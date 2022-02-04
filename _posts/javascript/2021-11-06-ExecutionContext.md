@@ -2,7 +2,8 @@
 layout: post
 title: "실행 컨텍스트 (Execution Context)"
 date: 2021-11-06 14:29:15 +0900
-category: posts
+category: javascript
+tags: javascript
 image:
   path: https://images.unsplash.com/photo-1635110002600-d4bc5138dfa8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
 ---

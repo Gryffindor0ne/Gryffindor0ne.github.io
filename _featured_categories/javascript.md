@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Life
-slug: life
+title: JavaScript
+slug: javascript
 description: >
-  삶에 대한 것들
+  JavaScript Study
 sitemap: true
 sidebar: true
 ---

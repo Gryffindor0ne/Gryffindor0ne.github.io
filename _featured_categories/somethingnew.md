@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Life
-slug: life
+title: SomethingNew
+slug: somethingnew
 description: >
-  삶에 대한 것들
+  Something New!
 sitemap: true
 sidebar: true
 ---

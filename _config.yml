@@ -48,37 +48,44 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Posts
-    url: /posts/
+  - title: JavaScript
+    url: /javascript/
+  - title: Algorithms
+    url: /algorithms
+  - title: SomethingNew
+    url: /somethingNew
   - title: Life
     url: /life/
   - title: About
     url: /about/
+  - title: Tags
+    url: /tags/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
-#   - title: LICENSE
-#     url: /LICENSE/
-#   - title: NOTICE
-#     url: /NOTICE/
-#   - title: CHANGELOG
-#     url: /CHANGELOG/
+legal:
+  - title: LICENSE
+    url: /LICENSE/
+  - title: NOTICE
+    url: /NOTICE/
+  - title: CHANGELOG
+    url: /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2021. All rights reserved.
+copyright: © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink: /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
-paginate_path: /:num/
+paginate_path: /page-:num/
+excerpt_separator: <!--more-->
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.5
 
 # Customizaton
@@ -300,6 +307,8 @@ collections:
 # ----------------------------------------------------------------------------------------
 
 exclude:
+  - ./#jekyll-theme-hydejack/node_modules
+  - ./#jekyll-theme-hydejack/.git
   - .jekyll-cache
   - .sass-cache
   - "*.toml"

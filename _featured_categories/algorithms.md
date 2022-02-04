@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Life
-slug: life
+title: Algorithms
+slug: algorithms
 description: >
-  삶에 대한 것들
+  Algorithms Study
 sitemap: true
 sidebar: true
 ---
