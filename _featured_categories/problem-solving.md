@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Problem Solving
-slug: problemSolving
+slug: problem-solving
 description: >
   About Problem Solving
 sitemap: true

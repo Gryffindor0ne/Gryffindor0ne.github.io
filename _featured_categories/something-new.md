@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: SomethingNew
-slug: somethingNew
+slug: something-new
 description: >
   Something New!
 sitemap: true
