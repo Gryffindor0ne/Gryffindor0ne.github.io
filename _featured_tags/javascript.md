@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: JavaScript
-category: gryffindor0ne_Note
+# category: javascript
 slug: javascript
 sidebar: true
 description: >

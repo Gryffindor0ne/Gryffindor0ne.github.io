@@ -52,7 +52,9 @@ menu:
     url: /javascript/
   - title: Algorithms
     url: /algorithms
-  - title: SomethingNew
+  - title: Problem Solving
+    url: /problemSolving
+  - title: Something New
     url: /somethingNew
   - title: Life
     url: /life/

@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: SomethingNew
-category: gryffindor0ne_Note
+# category: somethingnew
 slug: somethingnew
 sidebar: true
 description: >
