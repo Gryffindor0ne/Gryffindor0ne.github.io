@@ -51,11 +51,11 @@ menu:
   - title: JavaScript
     url: /javascript/
   - title: Algorithms
-    url: /algorithms
+    url: /algorithms/
   - title: Problem Solving
-    url: /problemSolving
+    url: /problemSolving/
   - title: Something New
-    url: /somethingNew
+    url: /somethingNew/
   - title: Life
     url: /life/
   - title: About
