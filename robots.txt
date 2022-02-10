@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gryffindor0ne.github.io/sitemap.xml
