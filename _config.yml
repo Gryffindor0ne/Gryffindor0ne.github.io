@@ -80,14 +80,14 @@ copyright: © 2022. All rights reserved.
 permalink: /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate: 10
+paginate: 5
 paginate_path: /page-:num/
 excerpt_separator: <!--more-->
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.5
 
 # Customizaton
@@ -131,12 +131,12 @@ defaults:
 
   # Don't include documents in assets in the sitemap
   - scope:
-      path: assets/
+      path: assets/**
     values:
       sitemap: false
 
   - scope:
-      path: licenses/
+      path: licenses/**
     values:
       layout: plain
       sitemap: false

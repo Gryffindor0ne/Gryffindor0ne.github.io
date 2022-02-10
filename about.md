@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: welcome
 title: About
 permalink: /about/
+more_posts: posts.md
+sidebar: true
 ---
 
-# Gryffindor0ne's Blog
+# Gryffindor0ne's Blog 🎩
 
 ---
 
