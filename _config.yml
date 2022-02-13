@@ -80,9 +80,9 @@ copyright: © 2022. All rights reserved.
 permalink: /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate: 5
+paginate: 10
 paginate_path: /page-:num/
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
 
 # Theme
 # ---------------------------------------------------------------------------------------
