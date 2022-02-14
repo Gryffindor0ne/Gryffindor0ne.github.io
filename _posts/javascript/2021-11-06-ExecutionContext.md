@@ -3,7 +3,7 @@ layout: post
 title: "실행 컨텍스트 (Execution Context)"
 date: 2021-11-06 14:29:15 +0900
 category: javascript
-tags: javascript ec
+tags: ec
 image:
   path: https://images.unsplash.com/photo-1635110002600-d4bc5138dfa8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
 ---
@@ -555,7 +555,7 @@ let, const로 선언된 변수는 자바스크립트 엔진이 실행시 변수 
 
 <br>
 
-👉🏻 다음 장에서 이어서 설명 👉🏻 [Next Page](https://gryffindor0ne.github.io/javascript/2021-11-08-EC_Hosting/)
+👉🏻 다음 장에서 이어서 설명 👉🏻 [Next Page](https://gryffindor0ne.github.io/javascript/2021-11-08-EC_Hoisting/)
 
 ---
 

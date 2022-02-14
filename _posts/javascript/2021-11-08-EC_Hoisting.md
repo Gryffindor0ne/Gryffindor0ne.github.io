@@ -3,7 +3,7 @@ layout: post
 title: "호이스팅 (Hoisting)"
 date: 2021-11-08 11:30:00 +0900
 category: javascript
-tags: javascript ec hoisting
+tags: ec hoisting
 image:
   path: https://images.unsplash.com/photo-1635110002600-d4bc5138dfa8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
 ---
