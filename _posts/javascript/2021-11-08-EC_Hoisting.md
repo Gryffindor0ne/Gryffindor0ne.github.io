@@ -3,7 +3,7 @@ layout: post
 title: "호이스팅 (Hoisting)"
 date: 2021-11-08 11:30:00 +0900
 category: javascript
-tags: javascript
+tags: javascript ec hoisting
 image:
   path: https://images.unsplash.com/photo-1635110002600-d4bc5138dfa8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
 ---
@@ -255,6 +255,8 @@ let, const로 선언된 변수는 변수의 선언만 **호이스팅(Hoisting)**
 [코드 참고하려면](https://github.com/Gryffindor0ne/studyNote/blob/main/JavaScript/ExecutionContext2.md)
 
 <br>
+
+👉🏻 [Next Page](https://gryffindor0ne.github.io/javascript/2021-11-09-EC_Scope/)
 
 ---
 

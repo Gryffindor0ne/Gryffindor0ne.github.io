@@ -3,7 +3,7 @@ layout: post
 title: "Async / await"
 date: 2021-11-23 13:57:27 +0900
 category: javascript
-tags: javascript
+tags: javascript asyncawait
 image:
   path: https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=710&q=80
 ---
@@ -193,6 +193,8 @@ getHalloweenItem2 함수의 시간을 3초로 변경하고, **Promise.race**를 
 [코드 참고하려면](<https://github.com/Gryffindor0ne/studyNote/blob/main/JavaScript/Callback3(async_await).md>)
 
 <br>
+
+👉🏻 [Next Page](https://gryffindor0ne.github.io/javascript/2021-11-27-Closure1/)
 
 ---
 
