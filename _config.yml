@@ -48,14 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title: Dev Log
+    url: /dev-log/
   - title: JavaScript
     url: /javascript/
   - title: Algorithms
     url: /algorithms/
   - title: Problem Solving
     url: /problem-solving/
-  - title: Something New
-    url: /something-new/
   - title: Life
     url: /life/
   - title: About
@@ -438,3 +438,4 @@ feed:
     - javascript
     - life
     - problem-solving
+    - dev-log

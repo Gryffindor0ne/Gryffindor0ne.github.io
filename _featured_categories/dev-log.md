@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: SomethingNew
-slug: something-new
+title: Dev Log
+slug: dev-log
 description: >
-  Something New!
+  Develop Story
 sitemap: true
 sidebar: true
 ---
