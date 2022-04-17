@@ -8,7 +8,9 @@ image:
   path: https://images.unsplash.com/photo-1622821977767-2eec8bd199c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 ---
 
-## Git flow
+# Git flow vs Github flow
+
+# Git flow
 
 ### 기본 브랜치 5가지
 
@@ -46,10 +48,15 @@ release 브랜치에서는 버그 픽스에 대한 부분만 커밋하고, 릴�
 master로 머지 후 tag 명령을 이용하여 릴리즈 버전에 대해 명시를 하고, -s 나 -u 옵션을 이용하여 머지한 사람의 정보를 남겨두도록 한다. 그런 뒤 develop 브랜치로 머지하여, release 브랜치에서 수정된 내용이 develop 브랜치에 반영한다.
 
 > develop 브랜치에서 따낸다.
+
 > develop 브랜치에는 다음 릴리즈 때 사용할 기능 추가
+
 > 버그 픽스에 대한 부분만 커밋
+
 > 준비 완료되면 master로 머지 진행
+
 > tag 명령으로 버전 명시
+
 > develop 브랜치로 명시
 
 ### Hotfix 브랜치
@@ -70,20 +77,21 @@ master로 머지 후 tag 명령을 이용하여 릴리즈 버전에 대해 명�
 - 브랜치가 많아 복잡하다.
 - 안 쓰는 브랜치가 있다. 그리고 몇몇 브랜치는 애매한 포지션이다.
 
-## Github flow
+# Github flow
 
-Git flow 가 GitHub에서 사용하기에는 복잡하다 여겨 GitHub Flow라는 내용으로 사용
+Git flow 가 GitHub에서 사용하기에는 복잡하다 여겨 GitHub Flow라는 내용으로 사용.
+
 자동화의 개념이 들어가 있다.
 
-master 브랜치에 대한 role만 정확하다면 나머지 브랜치들에는 관여를 하지 않는다.
+master 브랜치에 대한 role만 정확하다면 나머지 브랜치들에는 관여하지 않는다.
 그리고 pull request 기능을 사용하도록 권장을 한다.
 
 ![githubflow](https://user-images.githubusercontent.com/54384004/73646887-b48b1b00-46bd-11ea-96e3-9df8289c87f6.png)
 
 ### 특징
 
-release 브랜치가 명확하지 않은 시스템에서 사용에 맞게 되어있다.
-hotfix와 가장 작은 기능을 구분하지 않는다. 어차피 둘 다 개발자가 수정해야 되는 일중에 하나이다. 단지 우선순위가 어디가 높냐라는 단계이다.
+- release 브랜치가 명확하지 않은 시스템에서 사용에 맞게 되어있다.
+- hotfix와 가장 작은 기능을 구분하지 않는다. 어차피 둘 다 개발자가 수정해야 되는 일중에 하나이다. 단지 우선순위가 어디가 높냐라는 단계이다.
 
 ### 사용 방법
 
