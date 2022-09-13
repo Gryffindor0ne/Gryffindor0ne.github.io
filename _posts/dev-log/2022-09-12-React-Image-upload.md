@@ -149,9 +149,15 @@ getDownloadURL 함수로 받은 이미지 URL을 이용하여 이미지 미리�
 
 이미지 업로드시 이미지 업로드 진행사항을 확인하고 미리보기까지 보여지게 하고 싶다면 uploadBytesResumable 함수를 사용하면 된다.
 
+업로드 상태를 받아 progress bar를 적용하였다.
+
+<br>
+
 ![code3](https://user-images.githubusercontent.com/79234473/189650495-da87205c-0205-4578-88ee-13cef9228943.png)
 
 <br>
+
+---
 
 > 이미지 업로드 진행 과정
 
@@ -161,12 +167,26 @@ getDownloadURL 함수로 받은 이미지 URL을 이용하여 이미지 미리�
 
 <br>
 
+⏳
+
 ![1241245245](https://user-images.githubusercontent.com/79234473/189652264-68cfba90-ab56-4e47-876e-9f84411a6624.png)
 
 <br>
 
+⌛️
+
 ![qweqw](https://user-images.githubusercontent.com/79234473/189652440-749b0dc2-f21c-43b7-8989-9bb595406ca2.png)
 
 <br>
+<br>
+<br>
+📥 이미지 업로드 완료시 Firebase storage에 이미지가 생성됨을 확인할 수 있다.
+
+![dafs](https://user-images.githubusercontent.com/79234473/189788383-f461be18-e4de-47b5-b3b4-f46c5250bea8.png)
+
+<br>
+<br>
+
+---
 
 🖥 progress bar 디자인은 Material UI, 전체 디자인은 styled-component 사용.
