@@ -119,7 +119,7 @@ DEPENDENCIES
   jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-hydejack (~> 9.1.5)
+  jekyll-theme-hydejack (~> 9.1.6)
   jekyll-titles-from-headings
   jekyll-youtube
   kramdown-math-katex
