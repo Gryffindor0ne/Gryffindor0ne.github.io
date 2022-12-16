@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React Test Code"
+title: "리액트 테스트코드 작성하기 :React test code"
 date: 2022-10-26 13:45:00 +0900
 category: dev-log
 tags: dev-log
@@ -8,7 +8,7 @@ image:
   path: https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3540&q=80
 ---
 
-# React Test Code
+# 리액트 테스트코드 작성하기 :React test code
 
 ## React에서 테스트를 작성하는 방법
 

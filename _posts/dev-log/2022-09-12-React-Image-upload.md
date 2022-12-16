@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "React Image Upload (feat.Firebase)"
+title: "리액트와 파이어베이스를 이용한 이미지 업로드 : React image upload (feat.Firebase)"
 date: 2022-09-12 13:20:00 +0900
 category: dev-log
 tags: dev-log
@@ -8,7 +8,7 @@ image:
   path: https://images.unsplash.com/photo-1508802551395-fbecf2af43b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1212&q=80
 ---
 
-# React Image Upload (feat.Firebase)
+# 리액트와 파이어베이스를 이용한 이미지 업로드 : React image upload (feat.Firebase)
 
 ## React에서 이미지 업로드하는 방법 (feat.Firebase)
 
