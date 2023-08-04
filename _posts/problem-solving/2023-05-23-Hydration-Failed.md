@@ -9,13 +9,13 @@ image:
   path: https://images.unsplash.com/photo-1609643242070-c69786a76c30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
 ---
 
-# NextJS - Hydration failed ... (w. MUI)
+# Next.js - Hydration failed ... (ft. MUI)
 
 ## 🧶 Problem
 
 <br>
 
-NextJS를 사용하여 포트폴리오 작업을 하고 있었는데 다음의 에러가 발생하였다.
+Next.js를 사용하여 포트폴리오 작업을 하고 있었는데 다음의 에러가 발생하였다.
 
 ```
 Error: Hydration failed because the initial UI does not match what was rendered on the server.
@@ -35,7 +35,7 @@ See more info here: https://nextjs.org/docs/messages/react-hydration-error
 
 <br>
 
-NextJS 홈페이지로 들어가보니 이 오류는 애플리케이션을 렌더링하는 동안 미리 렌더링된 React 트리(SSR/SSG)와 브라우저에서 첫 번째 렌더링 중에 렌더링된 React 트리 간에 차이가 있어서 발생하는 것이라는 설명이 되어 있었다. 그리고 해당 방법에 대한 예시가 나와 있어서 해당 예시에 맞춰 변경해 보았다.
+Next.js 홈페이지로 들어가보니 이 오류는 애플리케이션을 렌더링하는 동안 미리 렌더링된 React 트리(SSR/SSG)와 브라우저에서 첫 번째 렌더링 중에 렌더링된 React 트리 간에 차이가 있어서 발생하는 것이라는 설명이 되어 있었다. 그리고 해당 방법에 대한 예시가 나와 있어서 해당 예시에 맞춰 변경해 보았다.
 
 <br>
 
