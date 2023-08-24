@@ -6,7 +6,7 @@ category: problem-solving
 hide_description: false
 tags: problem-solving
 image:
-  path: https://images.unsplash.com/photo-1609643242070-c69786a76c30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  path: https://images.unsplash.com/photo-1612933510543-5b442296703b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80
 ---
 
 # Recoil: Duplicate atom key 에러처리 (Next.js)
